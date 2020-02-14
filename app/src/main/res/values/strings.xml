@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">DicodingMovie</string>
+
+    <string-array name="movie_titles">
+        <item>A Star is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers - Infinity War</item>
+        <item>Birdbox</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumble Bee</item>
+        <item>Creed II</item>
+        <item>Deadpool</item>
+        <item>How To Train Your Dragon</item>
+        <item>Dragonball Z</item>
+        <item>GLASS</item>
+        <item>Hunter Killer</item>
+        <item>Marry Popins</item>
+        <item>Mortal Engine</item>
+        <item>Preman Pensiun</item>
+        <item>Robinhood</item>
+        <item>Spiderman</item>
+        <item>The Girl</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="movie_descriptions">
+        <item>Jackson "Jack" Maine, a famous country music singer privately battling an alcohol and drug addiction, plays a concert in California. His main support is Bobby, his manager and older half-brother. After the show, Jack visits a drag bar where he witnesses a performance by Ally, a waitress and singer-songwriter. Jack is amazed by her performance, and they spend the night talking to each other, where Ally discloses to him the troubles she has faced in pursuing a professional music career.</item>
+        <item>Aquaman is a 2018 American superhero film based on the DC Comics character Aquaman and distributed by Warner Bros. Entertainment. It is the sixth installment in the DC Extended Universe (DCEU). The film is directed by James Wan, from a screenplay by David Leslie Johnson-McGoldrick and Will Beall, and is based on a story written by Geoff Johns, Wan and Beall. Aquaman stars Jason Momoa as the title character, with Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, and Nicole Kidman in supporting roles. It is the third live-action theatrical film featuring Aquaman, following Batman v Superman: Dawn of Justice (2016) and Justice League (2017), and the first full-length feature film centered around the character. In the film, the titular character learns he is the heir to the underwater kingdom of Atlantis and must step forward to lead his people against his half-brother, Orm, who seeks to unite the seven underwater kingdoms against the surface world.</item>
+        <item>Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012s The Avengers and 2015s Avengers: Age of Ultron, and the nineteenth film in the Marvel Cinematic Universe (MCU). It was directed by Anthony and Joe Russo, written by Christopher Markus and Stephen McFeely, and features an ensemble cast including Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldana, Josh Brolin, and Chris Pratt. In the film, the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the all-powerful Infinity Stones.</item>
+        <item>Bird Box is a 2018 American post-apocalyptic horror thriller film, directed by Susanne Bier from a screenplay written by Eric Heisserer, and based on the 2014 novel of the same name by Josh Malerman. The film follows a woman, played by Sandra Bullock, as she tries to protect herself and two children from malevolent supernatural entities that make people who look at them go insane and commit suicide. Bird Box had its world premiere at the AFI Fest on November 12, 2018, and began a limited release on December 14, before streaming worldwide on Netflix on December 21, 2018.</item>
+        <item>Bohemian Rhapsody is a 2018 biographical musical film about Freddie Mercury, lead singer of the British rock band Queen. It follows the singers life from the formation of the band up to their 1985 Live Aid performance at the original Wembley Stadium. It was directed by Bryan Singer from a screenplay by Anthony McCarten, and produced by Graham King and Queen manager Jim Beach. It stars Rami Malek as Mercury, with Lucy Boynton, Gwilym Lee, Ben Hardy, Joe Mazzello, Aidan Gillen, Tom Hollander, Allen Leech, and Mike Myers in supporting roles. Queen members Brian May and Roger Taylor served as consultants. A British-American venture, the film was produced by 20th Century Fox, Regency Enterprises, GK Films, and Queen Films, with Fox serving as distributor.</item>
+        <item>Bumblebee is a 2018 American science fiction action film centered on the Transformers character of the same name. It is the sixth installment of the live-action Transformers film series, and was developed as a spin-off and prequel, later declared a reboot of the franchise. Directed by Travis Knight and written by Christina Hodson, the film stars Hailee Steinfeld, John Cena, Jorge Lendeborg Jr., John Ortiz, Jason Drucker, and Pamela Adlon, and stars Dylan O Brien, Angela Bassett, Justin Theroux, and Peter Cullen in voice roles. It was Knights first live-action film, as well as the first live-action Transformers film not to be directed by Michael Bay, who instead acts as a producer. Principal photography on the film began on July 31, 2017, in Los Angeles and San Francisco, California.</item>
+        <item>Creed II is a 2018 American sports drama film directed by Steven Caple Jr., and written by Sylvester Stallone and Juel Taylor from a story by Sascha Penn and Cheo Hodari Coker. A sequel to Creed (2015) and the eighth installment in the Rocky film series, it stars Michael B. Jordan, Stallone, Tessa Thompson, Dolph Lundgren, Florian Munteanu, Wood Harris, and Phylicia Rashad. Creed writer-director Ryan Coogler serves as an executive producer on the film. The film follows a fight over 33 years in the making, as Adonis Creed meets a new adversary in the ring: Viktor Drago, son of Ivan Drago, the powerful athlete who killed Adonis father Apollo Creed.</item>
+        <item>Deadpool is a 2016 American superhero film based on the Marvel Comics character of the same name. Distributed by 20th Century Fox, it is the eighth installment of the X-Men film series and the first standalone Deadpool film. Directed by Tim Miller from a screenplay by Rhett Reese and Paul Wernick, the film stars Ryan Reynolds as Wade Wilson / Deadpool alongside Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano and Brianna Hildebrand. In the film, Wilson—as the antihero Deadpool—hunts down the man who gave him mutant abilities and caused his scarred physical appearance.</item>
+        <item>How to Train Your Dragon is a 2010 American computer-animated action fantasy film loosely based on the 2003 book of the same name by British author Cressida Cowell, produced by DreamWorks Animation and distributed by Paramount Pictures. The film was directed by Chris Sanders and Dean DeBlois from a screenplay by Will Davies, Sanders, and DeBlois, and stars the voices of Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, Christopher Mintz-Plasse, T. J. Miller, and Kristen Wiig. The story takes place in a mythical Viking world where a young Viking teenager named Hiccup aspires to follow his tribes tradition of becoming a dragon slayer. After finally capturing his first dragon, and with his chance at last of gaining the tribes acceptance, he finds that he no longer wants to kill the dragon and instead befriends it.</item>
+        <item>Dragon Ball (Japanese: ドラゴンボール Hepburn: Doragon Bōru), sometimes styled as Dragonball, is a Japanese media franchise created by Akira Toriyama in 1984. The initial manga, written and illustrated by Toriyama, was serialized in Weekly Shōnen Jump from 1984 to 1995, with the 519 individual chapters collected into 42 tankōbon volumes by its publisher Shueisha. Dragon Ball was initially inspired by the classical Chinese novel Journey to the West, as well as Hong Kong martial arts films. The series follows the adventures of the protagonist, Son Goku, from his childhood through adulthood as he trains in martial arts and explores the world in search of the seven orbs known as the Dragon Balls, which summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles a wide variety of villains, many of whom also seek the Dragon Balls.</item>
+        <item>Glass is a 2019 American psychological superhero thriller film written and directed by M. Night Shyamalan, who also producer with Jason Blum, Marc Bienstock and Ashwin Rajan. The film is a crossover and sequel to Shyamalans previous films Unbreakable (2000) and Split (2016), serving as the final installment in the Unbreakable trilogy.[8] Bruce Willis, Samuel L. Jackson, Spencer Treat Clark, and Charlayne Woodard reprise their Unbreakable roles, while James McAvoy and Anya Taylor-Joy return as their Split characters,[9] with Sarah Paulson, Adam David Thompson, and Luke Kirby joining the cast. In the film, David Dunn becomes locked in a mental hospital alongside his archenemy Mr. Glass, as well as the multi-personality "The Horde", and must contend with a psychiatrist who is out to prove the trio do not actually possess super-human abilities.</item>
+        <item>Hunter Killer is a 2018 American action thriller film directed by Donovan Marsh, written by Arne Schmidt and Jamie Moss, and based on the 2012 novel Firing Point by Don Keith and George Wallace. The film stars Gerard Butler, Gary Oldman, Michael Nyqvist (in one of his final film roles), Common, Linda Cardellini and Toby Stephens, and follows a submarine crew and a group of Navy SEALs who rescue the captured Russian President from a coup.</item>
+        <item>Mary Poppins is a 1964 American musical fantasy film directed by Robert Stevenson and produced by Walt Disney, with songs written and composed by the Sherman Brothers. The screenplay is by Bill Walsh and Don DaGradi, based on P. L. Traverss book series Mary Poppins. The film, which combines live-action and animation, stars Julie Andrews in her feature film debut as Mary Poppins, who visits a dysfunctional family in London and employs her unique brand of lifestyle to improve the familys dynamic. Dick Van Dyke, David Tomlinson, and Glynis Johns are featured in supporting roles. The film was shot entirely at the Walt Disney Studios in Burbank, California using painted London background scenes.</item>
+        <item>Mortal Engines is a 2018 post-apocalyptic adventure film directed by Christian Rivers and with a screenplay by Fran Walsh, Philippa Boyens and Peter Jackson, based on the novel of the same name by Philip Reeve, and starring Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae, Ronan Raftery, Leila George, Patrick Malahide, and Stephen Lang. An American–New Zealand co-production, the film is set in a post-apocalyptic world where entire cities have been mounted on wheels and motorised, and prey on one another.</item>
+        <item>Preman Pensiun adalah film Indonesia tahun 2019 yang diadaptasi dari sebuah sinetron berjudul sama yang pernah tayang di stasiun televisi RCTI. Film ini disutradarai oleh Aris Nugraha yang juga sebagai penulis skenario dan akan diputar perdana pada 17 Januari 2019.</item>
+        <item>Robin Hood is a 2018 American action-adventure film directed by Otto Bathurst and written by Ben Chandler and David James Kelly, from a story by Chandler. It is a telling of the Robin Hood legend, and follows his training by John to steal from the Sheriff of Nottingham. The film stars Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson, Tim Minchin, and Jamie Dornan.</item>
+        <item>Spider-Man: Into the Spider-Verse is a 2018 American computer-animated superhero film featuring the Marvel Comics character Miles Morales / Spider-Man, produced by Columbia Pictures and Sony Pictures Animation in association with Marvel, and distributed by Sony Pictures Releasing. It is the first animated feature film in the Spider-Man franchise, and is set in a shared multiverse called the "Spider-Verse", which has alternate universes. The film was directed by Bob Persichetti, Peter Ramsey, and Rodney Rothman from a screenplay by Phil Lord and Rothman, and a story by Lord. It stars the voices of Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily Tomlin, Luna Lauren Velez, John Mulaney, Kimiko Glenn, Nicolas Cage, and Liev Schreiber. In the film, Miles Morales joins other Spider-Men from various dimensions who team up to save New York City from Kingpin.</item>
+        <item>The Girl in the Spiders Web is a 2018 action thriller film directed by Fede Álvarez and written by Álvarez, Steven Knight, and Jay Basu, and based on the novel of the same name by David Lagercrantz, which in turn is based on characters in the Millennium book series by Stieg Larsson. The film acts as both a soft-reboot[dubious – discuss] and a sequel to David Finchers The Girl with the Dragon Tattoo, as the second installment in the American-produced Millennium film series. It stars Claire Foy, taking over the role of Lisbeth Salander from Rooney Mara, and follows Salander as she battles against a mysterious organization, The Spiders, who are seeking world anarchy. Sverrir Gudnason, LaKeith Stanfield, Sylvia Hoeks, and Stephen Merchant also appear in the film.</item>
+        <item>The Mule is a 2018 American crime drama film produced and directed by Clint Eastwood, who also plays the lead role. The screenplay, by Nick Schenk, is based on The New York Times article "The Sinaloa Cartels 90-Year-Old Drug Mule" by Sam Dolnick, which recounts the story of Leo Sharp, a World War II veteran who became a drug courier for the Sinaloa Cartel in his 80s.</item>
+        <item>Venom is a 2018 American superhero film based on the Marvel Comics character of the same name, produced by Columbia Pictures in association with Marvel[5] and Tencent Pictures. Distributed by Sony Pictures Releasing, it is the first film in Sonys Marvel Universe, adjunct to the Marvel Cinematic Universe (MCU).[a] Directed by Ruben Fleischer from a screenplay by Scott Rosenberg, Jeff Pinkner, and Kelly Marcel, it stars Tom Hardy as Eddie Brock / Venom, alongside Michelle Williams, Riz Ahmed, Scott Haze, and Reid Scott. In Venom, journalist Brock gains superpowers after being bound to an alien symbiote whose species plans to invade Earth.</item>
+    </string-array>
+
+    <array name="movie_posters">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="movie_releasedate">
+        <item>October 5, 2018</item>
+        <item>December 21, 2018</item>
+        <item>April 27, 2018</item>
+        <item>December 14, 2018</item>
+        <item>2 November 2018</item>
+        <item>December 21, 2018</item>
+        <item>November 21, 2018</item>
+        <item>February 12, 2016</item>
+        <item>March 26, 2010</item>
+        <item>April 26, 1989</item>
+        <item>January 18, 2019</item>
+        <item>October 26, 2018</item>
+        <item>December 19, 2018</item>
+        <item>December 14, 2018</item>
+        <item>12 Januari 2015</item>
+        <item>November 21, 2018</item>
+        <item>December 14, 2018</item>
+        <item>November 21, 2018</item>
+        <item>December 14, 2018</item>
+        <item>October 5, 2018</item>
+    </string-array>
+
+    <string-array name="movie_runningtimes">
+        <item>148 minutes</item>
+        <item>143 minutes</item>
+        <item>149 minutes</item>
+        <item>124 minutes</item>
+        <item>134 minutes</item>
+        <item>114 minutes</item>
+        <item>130 minutes</item>
+        <item>108 minutes</item>
+        <item>98 minutes</item>
+        <item>98 minutes</item>
+        <item>129 minutes</item>
+        <item>121 minutes</item>
+        <item>130 minutes</item>
+        <item>128 minutes</item>
+        <item>34 minutes</item>
+        <item>116 minutes</item>
+        <item>117 minutes</item>
+        <item>117 minutes</item>
+        <item>116 minutes</item>
+        <item>112 minutes</item>
+    </string-array>
+
+    <string-array name="movie_distributedby">
+        <item>Warner Bros. Pictures</item>
+        <item>Warner Bros. Pictures</item>
+        <item>Walt Disney Studios</item>
+        <item>Netflix</item>
+        <item>20th Century Fox</item>
+        <item>Paramount Pictures</item>
+        <item>Warner Bros. Pictures</item>
+        <item>20th Century Fox</item>
+        <item>Paramount Pictures</item>
+        <item>Japan</item>
+        <item>Universal Pictures</item>
+        <item>Lionsgate</item>
+        <item>Walt Disney Studios</item>
+        <item>Universal Pictures</item>
+        <item>MNC Pictures, RCTI</item>
+        <item>Lionsgate</item>
+        <item>Sony Pictures Releasing</item>
+        <item>Sony Pictures Releasing</item>
+        <item>Warner Bros.</item>
+        <item>Sony Pictures Releasing</item>
+    </string-array>
+
+    <string name="releasedate">Release Date</string>
+    <string name="durationtime">Duration Time</string>
+    <string name="distributedby">Distributed By</string>
+    <string name="description">Description</string>
+    <string name="content">Content</string>
+
+</resources>
